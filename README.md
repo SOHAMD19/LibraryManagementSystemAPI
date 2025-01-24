@@ -67,8 +67,4 @@ cd LibraryManagementSystemAPI
   - `PUT /api/borrowings/{id}` - Update a borrowing record
   - `DELETE /api/borrowings/{id}` - Delete a borrowing record
 
-## **Contributing**
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## **License**
-This project is licensed under the MIT License. See the LICENSE file for details.
